@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "27993852328",
+    "project_id": "campus-adapter",
+    "storage_bucket": "campus-adapter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27993852328:android:48fbf73af64391a4c7b59d",
+        "android_client_info": {
+          "package_name": "com.mark2.campusadapter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27993852328-0665lnsmk1uofmkgbcc11ee5973c4pap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ7h3dqIlNTNPNYlmY0vGI3macrm145FQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27993852328-0665lnsmk1uofmkgbcc11ee5973c4pap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
